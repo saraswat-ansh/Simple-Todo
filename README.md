@@ -33,11 +33,11 @@ todo-list/
 └── README.md
 ```
 
-## 🚀 Live Link - https://saraswat-ansh.github.io/Simple-Todo/
 ## 🎯 Purpose
-
 This project was built to practice **JavaScript DOM manipulation, event handling, localStorage, and responsive web design**.
 
-## 👨‍💻 Author
+## 🚀 Live Link - 
+https://saraswat-ansh.github.io/Simple-Todo/
 
+## 👨‍💻 Author
 **Ansh Sarswat**
