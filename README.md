@@ -33,19 +33,7 @@ todo-list/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
-No server or additional dependencies are required.
-
+## 🚀 Live Link - https://saraswat-ansh.github.io/Simple-Todo/
 ## 🎯 Purpose
 
 This project was built to practice **JavaScript DOM manipulation, event handling, localStorage, and responsive web design**.
